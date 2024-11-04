@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\prn231_pe_se173539_silverjewery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|solutionrelative:prn231_pe_se173539_silverjewery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\prn231_pe_se173539_silverjewery\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|solutionrelative:prn231_pe_se173539_silverjewery\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\prn231_pe_se173539_silverjewery\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|solutionrelative:prn231_pe_se173539_silverjewery\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\prn231_pe_se173539_silverjewery\\controllers\\jwelrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|solutionrelative:prn231_pe_se173539_silverjewery\\controllers\\jwelrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\prn231_pe_se173539_silverjewery\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|solutionrelative:prn231_pe_se173539_silverjewery\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\prn231_pe_se173539_silverjewery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C287A9-296A-42DB-8C49-86369344BB77}|PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj|solutionrelative:prn231_pe_se173539_silverjewery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CD22BB-38E5-41A8-8D22-C4C6DEB54CF5}|DataAccessObject\\DataAccessObject.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\dataaccessobject\\jwelrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CD22BB-38E5-41A8-8D22-C4C6DEB54CF5}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\jwelrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1CD22BB-38E5-41A8-8D22-C4C6DEB54CF5}|DataAccessObject\\DataAccessObject.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\dataaccessobject\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4EBB2AD-ED8A-47D2-AAB9-79CBA22571E7}|Repository\\Repository.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\repository\\interfaces\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4EBB2AD-ED8A-47D2-AAB9-79CBA22571E7}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1CD22BB-38E5-41A8-8D22-C4C6DEB54CF5}|DataAccessObject\\DataAccessObject.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\dataaccessobject\\jwelrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CD22BB-38E5-41A8-8D22-C4C6DEB54CF5}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\jwelrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A601F6BE-5022-42DF-95D8-048B759745B0}|SilverRazorPage\\SilverRazorPage.csproj|c:\\users\\pc\\desktop\\chuy\u00EAn ng\u00E0nh\\k\u00EC 8\\prn231\\assignment01\\assigment1_prn231\\silverrazorpage\\pages\\silverjwelry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -338,7 +338,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -346,19 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessObject\\AccountDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\AccountDAO.cs",
-              "RelativeToolTip": "DataAccessObject\\AccountDAO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:47:43.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AccountRepo.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\AccountRepo.cs",
               "RelativeDocumentMoniker": "Repository\\AccountRepo.cs",
@@ -370,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JwelryRepo.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\JwelryRepo.cs",
               "RelativeDocumentMoniker": "Repository\\JwelryRepo.cs",
@@ -382,32 +370,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "PRN231_PE_SE173539_SilverJewery\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\AccountController.cs",
               "RelativeToolTip": "PRN231_PE_SE173539_SilverJewery\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T09:57:09.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "PRN231_PE_SE173539_SilverJewery\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "PRN231_PE_SE173539_SilverJewery\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowB0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:33:50.887Z"
+              "WhenOpened": "2024-10-30T18:33:50.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "JwelryController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\JwelryController.cs",
               "RelativeDocumentMoniker": "PRN231_PE_SE173539_SilverJewery\\Controllers\\JwelryController.cs",
@@ -415,23 +404,50 @@
               "RelativeToolTip": "PRN231_PE_SE173539_SilverJewery\\Controllers\\JwelryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T09:58:33.362Z"
+              "WhenOpened": "2024-10-08T09:58:33.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "PRN231_PE_SE173539_SilverJewery\\Controllers\\RoleController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Controllers\\RoleController.cs",
               "RelativeToolTip": "PRN231_PE_SE173539_SilverJewery\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:11:23.07Z"
+              "WhenOpened": "2024-11-01T09:11:23.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "JwelryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\JwelryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\JwelryDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\JwelryDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\JwelryDAO.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:08:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\AccountDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:47:43.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CategoryDAO.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObject\\CategoryDAO.cs",
@@ -443,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\Program.cs",
               "RelativeDocumentMoniker": "PRN231_PE_SE173539_SilverJewery\\Program.cs",
@@ -455,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\Pages\\Admin\\Account\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "SilverRazorPage\\Pages\\Admin\\Account\\Edit.cshtml.cs",
@@ -467,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BranchAccount.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\BusinessObject\\Models\\BranchAccount.cs",
               "RelativeDocumentMoniker": "BusinessObject\\Models\\BranchAccount.cs",
@@ -479,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\Pages\\Admin\\Account\\Edit.cshtml",
               "RelativeDocumentMoniker": "SilverRazorPage\\Pages\\Admin\\Account\\Edit.cshtml",
@@ -491,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SilverRazorPage\\Pages\\_ViewStart.cshtml",
@@ -503,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\Pages\\Admin\\Account\\Delete.cshtml",
               "RelativeDocumentMoniker": "SilverRazorPage\\Pages\\Admin\\Account\\Delete.cshtml",
@@ -515,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\Pages\\SilverJwelry\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "SilverRazorPage\\Pages\\SilverJwelry\\Delete.cshtml.cs",
@@ -527,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\Pages\\SilverJwelry\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "SilverRazorPage\\Pages\\SilverJwelry\\Index.cshtml.cs",
@@ -539,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IJewlryRepo.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\Interfaces\\IJewlryRepo.cs",
               "RelativeDocumentMoniker": "Repository\\Interfaces\\IJewlryRepo.cs",
@@ -551,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IAccountRepo.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\Interfaces\\IAccountRepo.cs",
               "RelativeDocumentMoniker": "Repository\\Interfaces\\IAccountRepo.cs",
@@ -560,18 +576,6 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T09:42:01.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "JwelryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\JwelryDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessObject\\JwelryDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Chuy\u00EAn Ng\u00E0nh\\K\u00EC 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\JwelryDAO.cs",
-              "RelativeToolTip": "DataAccessObject\\JwelryDAO.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAqwGMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T09:08:53.205Z"
             },
             {
               "$type": "Document",
