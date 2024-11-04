@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QFiAa2MVwnY=",
+  "dgSpecHash": "usS01JiCLxo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

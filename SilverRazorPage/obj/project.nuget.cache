@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1DRWMdxilAk=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\SilverRazorPage\\SilverRazorPage.csproj",
+  "dgSpecHash": "YGYvf7gtohQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\SilverRazorPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -178,5 +178,15 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Service\\Service.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Service\\Service.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -2987,8 +2987,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Service\\Service.csproj": "1.0.0",
           "Repository": "1.0.0",
-          "Service": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "compile": {
@@ -3013,19 +3013,6 @@
         },
         "runtime": {
           "bin/placeholder/Repository.dll": {}
-        }
-      },
-      "Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Repository": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -8545,11 +8532,6 @@
       "type": "project",
       "path": "../Repository/Repository.csproj",
       "msbuildProject": "../Repository/Repository.csproj"
-    },
-    "Service/1.0.0": {
-      "type": "project",
-      "path": "../Service/Service.csproj",
-      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8568,11 +8550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\SilverRazorPage\\SilverRazorPage.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\SilverRazorPage.csproj",
       "projectName": "SilverRazorPage",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\SilverRazorPage\\SilverRazorPage.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\SilverRazorPage.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\SilverRazorPage\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\SilverRazorPage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8590,17 +8572,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\BusinessObject\\BusinessObject.csproj"
+            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\BusinessObject\\BusinessObject.csproj"
             },
-            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\DataAccessObject\\DataAccessObject.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\DataAccessObject\\DataAccessObject.csproj"
+            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\DataAccessObject.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\DataAccessObject\\DataAccessObject.csproj"
             },
-            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj"
+            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\PRN231_PE_SE173539_SilverJewery\\PRN231_PE_SE173539_SilverJewery.csproj"
             },
-            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\FALL24_PE_PRN231\\Repository\\Repository.csproj"
+            "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Repository\\Repository.csproj"
             }
           }
         }
@@ -8653,5 +8635,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Service\\Service.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\PC\\Desktop\\Chuyên Ngành\\Kì 8\\PRN231\\Assignment01\\Assigment1_PRN231\\Service\\Service.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

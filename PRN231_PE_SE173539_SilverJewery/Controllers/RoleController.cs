@@ -1,15 +1,12 @@
 ﻿using BusinessObject.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.OData.Formatter;
-using Microsoft.AspNetCore.OData.Query;
-using Microsoft.AspNetCore.OData.Routing.Controllers;
 using Repository.Interfaces;
 
 namespace PRN231_PE_SE173539_SilverJewery.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class RoleController : ODataController
+    public class RoleController : ControllerBase
     {
         public readonly IRoleRepo _roleRepo;
 
@@ -19,16 +16,14 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
         }
 
 
-        [EnableQuery]
         [HttpGet]
         public IActionResult GetAllRoles()
         {
             return Ok(_roleRepo.GetRoles());
         }
 
-        [EnableQuery]
         [HttpGet("{id}")]
-        public IActionResult GetRoleById([FromODataUri] int id)
+        public IActionResult GetRoleById(int id)
         {
             var enitty = _roleRepo.GetRole(id);
             if (enitty == null)

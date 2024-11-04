@@ -1,15 +1,12 @@
 ﻿using BusinessObject.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.OData.Formatter;
-using Microsoft.AspNetCore.OData.Query;
-using Microsoft.AspNetCore.OData.Routing.Controllers;
 using Repository.Interfaces;
 
 namespace PRN231_PE_SE173539_SilverJewery.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoryController : ODataController
+    public class CategoryController : ControllerBase
     {
         public readonly IJewlryRepo silverJewelryRepo;
         public readonly IAccountRepo accountRepo;
@@ -23,16 +20,14 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
         }
 
 
-        [EnableQuery]
         [HttpGet]
         public IActionResult GetAllCategories()
         {
             return Ok(categoryRepo.GetCategories());
         }
 
-        [EnableQuery]
         [HttpGet("{id}")]
-        public IActionResult GetCategoryById([FromODataUri] string id)
+        public IActionResult GetCategoryById(string id)
         {
             var enitty = categoryRepo.GetCategory(id);
             if (enitty == null)

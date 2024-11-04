@@ -1,9 +1,6 @@
 ﻿using BusinessObject.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.OData.Formatter;
-using Microsoft.AspNetCore.OData.Query;
-using Microsoft.AspNetCore.OData.Routing.Controllers;
 using Repository.Contract.Request;
 using Repository;
 using Repository.Interfaces;
@@ -12,7 +9,7 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class JwelryController : ODataController
+    public class JwelryController : ControllerBase
     {
         public readonly IJewlryRepo silverJewelryRepo;
         public readonly IAccountRepo accountRepo;
@@ -26,16 +23,14 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
         }
 
 
-        [EnableQuery]
         [HttpGet]
         public IActionResult GetAllJwelries()
         {
             return Ok(silverJewelryRepo.GetJwelries());
         }
 
-        [EnableQuery]
         [HttpGet("{id}")]
-        public IActionResult GetJwelryById([FromODataUri] string id)
+        public IActionResult GetJwelryById(string id)
         {
             var enitty = silverJewelryRepo.GetJwelry(id);
             if (enitty == null)
@@ -45,9 +40,8 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
             return Ok(enitty);
         }
 
-        [EnableQuery]
         [HttpGet("search")]
-        public IActionResult SearchJewelries([FromQuery] string? nameSearchTerm, [FromQuery] decimal? metalWeight)
+        public IActionResult SearchJewelries(string? nameSearchTerm, decimal? metalWeight)
         {
             List<SilverJewelry> results = silverJewelryRepo.SearchSilverJewelry(nameSearchTerm, metalWeight);
             return Ok(results);

@@ -5,9 +5,6 @@ using Repository.Contract;
 using Microsoft.AspNetCore.Identity.Data;
 using BusinessObject.Models;
 using Repository.Contract.Request;
-using Microsoft.AspNetCore.OData.Formatter;
-using Microsoft.AspNetCore.OData.Query;
-using Microsoft.AspNetCore.OData.Routing.Controllers;
 using Repository;
 namespace PRN231_PE_SE173539_SilverJewery.Controllers
 {
@@ -67,9 +64,8 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
                 : BadRequest(Empty);
         }
 
-        [EnableQuery]
         [HttpGet("{id}")]
-        public IActionResult GetAccountById([FromODataUri] int id)
+        public IActionResult GetAccountById(int id)
         {
             var enitty = _accountRepo.GetBranchAccountById(id);
             if (enitty == null)
@@ -80,7 +76,6 @@ namespace PRN231_PE_SE173539_SilverJewery.Controllers
         }
 
 
-        [EnableQuery]
         [HttpGet()]
         public IActionResult GetAllAcount()
         {
